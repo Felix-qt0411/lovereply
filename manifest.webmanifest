@@ -1,0 +1,23 @@
+{
+  "name": "回信 · 恋爱聊天助手",
+  "short_name": "回信",
+  "description": "恋爱聊天回复建议（个人自用版）",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF6F3",
+  "theme_color": "#E8656F",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
